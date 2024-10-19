@@ -26,7 +26,7 @@
   animation-iteration-count: 1, infinite;
 }
 div.welcome-page {
-  background-image: url("/assets/Images/bgw.avif");
+  background-image: url("assets/Images/bgw.avif");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -35,16 +35,7 @@ div.welcome-page {
   justify-content: center;
   align-items: center;
 }
-div.welcome-page1 {
-  background-image: url("/assets/Images/bgb.avif");
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100vh;
-  width: auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
 
 .wp-h2 {
   font-family: Heading;
@@ -61,7 +52,7 @@ div.welcome-page1 {
 }
 
 .adding {
-  background-image: url("/assets/Images/creative-classic-blue-screensaver_23-2148430319.jpg");
+  background-image: url("./assets/Images/creative-classic-blue-screensaver_23-2148430319.jpg");
   height: 200px;
   width: 100%;
   padding-bottom: 10%;
