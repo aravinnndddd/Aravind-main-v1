@@ -47,6 +47,7 @@ darkmode.onclick=function(){
   document.querySelector("#nav").style="filter:drop-shadow(4px 0px 10px white)";
   document.querySelector("#nav a").style.color="white";
   document.querySelector(".skill-body").style.backgroundColor="black";
+      document.querySelector(".art-works").style.color="white";
   document.querySelector(".welcome-page").style.background = "url('/assets/Images/bgb.avif') center / cover";
   
 }
