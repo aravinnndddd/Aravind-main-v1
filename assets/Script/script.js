@@ -48,7 +48,7 @@ darkmode.onclick=function(){
   document.querySelector("#nav a").style.color="white";
   document.querySelector(".skill-body").style.backgroundColor="black";
       document.querySelector(".art-works").style.color="white";
-  document.querySelector(".welcome-page").style.background = "url('/assets/Images/bgb.avif') center / cover";
+  document.querySelector(".welcome-page").style.background = "url('assets/Images/bgb.avif') center / cover";
   
 }
 let lightmode = document.querySelector(".Lmode")
